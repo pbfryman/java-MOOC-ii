@@ -1,0 +1,7 @@
+Harry Potter and the Sorcerer's Stone,1999,150,J.K. Rowling
+Harry Potter and the Chamber of Secrets,2000,165,J.K. Rowling
+Harry Potter and the Prisoner of Azkaban,2001,170,J.K. Rowling
+Harry Potter and the Goblet of Fire,2002,200,J.K. Rowling
+Harry Potter and the Order of the Phoenix,2003,210,J.K. Rowling
+Harry Potter and the Half Blood Prince,2004,190,J.K. Rowling
+Harry Potter and the Deathly Hallows,2005,225,J.K. Rowling

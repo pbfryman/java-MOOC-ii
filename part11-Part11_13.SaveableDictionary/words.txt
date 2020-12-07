@@ -1,0 +1,8 @@
+perro:dog
+alla oleva:below
+gato:cat
+apina:monkey
+olut:beer
+bueno:good
+hola:hello
+pollo:chicken
